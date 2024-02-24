@@ -1,14 +1,18 @@
+ *  { 
+        box-sizing: border-box;
+     }
+     
      h1 {
             color: pink;
 
         }
 
         p {
-            color: red;
+            color: rgb(146, 195, 33);
         }
     
         body {
-            background: dodgerblue;
+            background: beige;
         }
         .purple-text {
             color: rgb(0,0,255);
@@ -36,10 +40,10 @@
         }
 
         h1 {
-            color: red;
+            color: #68649f;
             border-style: solid;
             border-width: 1px;
-            border-color: red;
+            border-color: #56526a;
         }
 
 
@@ -48,9 +52,7 @@
         }
 
         img {
-            border-style: dashed;
-            border-color: orange;
-            border-width: 3px;
+            border: 3px solid #333333;
             width: 25%;
         }
     
